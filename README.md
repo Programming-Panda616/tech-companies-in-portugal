@@ -65,6 +65,7 @@ Are you seeking for a job? Click :rocket: to check the company's careers page.
 | [OutSystems](https://www.outsystems.com) [:rocket:](https://www.outsystems.com/company/careers/) | Low-code platform to visually develop applications. | `Braga` `Linda-a-Velha`<br>`Proença-a-Nova` |
 | [Probely](https://probely.com) [:rocket:](https://careers.probely.com) | Automated web application security scanning as a service. | `Lisboa` |
 | [Unbabel](https://unbabel.com) [:rocket:](https://unbabel.com/careers/) | Translation as a Service. | `Lisboa` |
+| [Mindera](https://mindera.com/) [:rocket:](https://mindera.com/#we-are-hiring) | We use technology to build products we are proud of, with people we love. | `Porto/Aveiro` |
 
 
 ##  E-commerce :shopping:
